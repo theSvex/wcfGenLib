@@ -1,0 +1,7 @@
+c:\users\comarch\documents\visual studio 2013\Projects\wcfGenLib\wcfGenLib\bin\Debug\wcfGenLib.dll.config
+c:\users\comarch\documents\visual studio 2013\Projects\wcfGenLib\wcfGenLib\bin\Debug\wcfGenLib.dll
+c:\users\comarch\documents\visual studio 2013\Projects\wcfGenLib\wcfGenLib\bin\Debug\wcfGenLib.pdb
+c:\users\comarch\documents\visual studio 2013\Projects\wcfGenLib\wcfGenLib\bin\Debug\GAF.dll
+c:\users\comarch\documents\visual studio 2013\Projects\wcfGenLib\wcfGenLib\obj\Debug\wcfGenLib.csprojResolveAssemblyReference.cache
+c:\users\comarch\documents\visual studio 2013\Projects\wcfGenLib\wcfGenLib\obj\Debug\wcfGenLib.dll
+c:\users\comarch\documents\visual studio 2013\Projects\wcfGenLib\wcfGenLib\obj\Debug\wcfGenLib.pdb
